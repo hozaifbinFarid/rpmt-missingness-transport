@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or its result tables, please cite them as below."
+title: "RPMT: Rate Preserving Missingness Transport - code, protocol and results"
+type: software
+authors:
+  - family-names: "Farid"
+    given-names: "Hozaif Bin"
+    email: "hozaifbinfarid@gmail.com"
+    affiliation: "[affiliation]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: "1.0.0"
+date-released: "2026-10-00"
+license: MIT
+repository-code: "[GitHub repository URL]"
+doi: "[Zenodo DOI]"
