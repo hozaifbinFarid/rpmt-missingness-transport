@@ -11,7 +11,7 @@ Code, locked protocol and result tables for the manuscript
 
 | Path | Content |
 |---|---|
-| `notebook/RPMT_Complete_Research_Notebook.ipynb` | The Colab notebook that ran the full study (293 fits), with its saved outputs. |
+| `RPMT_Complete_Research_Notebook.ipynb` | The Colab notebook that ran the full study (293 fits), with its saved outputs. |
 | `protocol/` | Locked protocol and selection records (`protocol_*.json`, `selection_*.json`, `criteria.json`, `test_evaluation_started.json`, `study_status.json`). |
 | `results/` | Result tables used in the paper: `run_completion.csv`, `paired_comparisons.csv`, `cluster_intervals.csv`, `shared_mechanisms.csv`, `metrics.csv`, `native_gap_sensitivity.json`, `smoke_checks.json`, `timing_pilot.json`, `artifact_manifest.json`. |
 | `results/results_bundle.zip` | Complete export bundle, including the large files `results.json` and `subject_metrics.csv`, the risk-curve plots and `rpmt_inference.zip`. |
