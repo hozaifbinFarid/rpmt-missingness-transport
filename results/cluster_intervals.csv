@@ -1,0 +1,4 @@
+dataset,independent_units,mean_rpmt_minus_baseline,ci_low,ci_high,unit,interpretation
+mfeat,400,-0.011655417911688684,-0.019147123953661783,-0.0047868464862576105,digit example,Conditional on fitted models and optimized evaluation couplings; small-cohort descriptive interval.
+mhealth,6,-0.018640063110029133,-0.031488429212975046,-0.007763075734708031,subject,Conditional on fitted models and optimized evaluation couplings; small-cohort descriptive interval.
+pamap2,6,-0.01332652555735493,-0.022064644911590114,-0.0076602625128522,subject,Conditional on fitted models and optimized evaluation couplings; small-cohort descriptive interval.

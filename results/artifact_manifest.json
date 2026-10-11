@@ -1,0 +1,200 @@
+{
+  "criteria": {
+    "all_293_fits_complete": true,
+    "dataset_summaries": [
+      {
+        "dataset": "mfeat",
+        "nominal_balanced_accuracy_cost": -0.007619047619047525,
+        "relative_risk_reduction": 0.09683515857811281
+      },
+      {
+        "dataset": "mhealth",
+        "nominal_balanced_accuracy_cost": -0.04824425452290421,
+        "relative_risk_reduction": 0.06720063647367415
+      },
+      {
+        "dataset": "pamap2",
+        "nominal_balanced_accuracy_cost": -0.019674508449994174,
+        "relative_risk_reduction": 0.045476468974306176
+      }
+    ],
+    "datasets_meeting_threshold": 0,
+    "official_paper_reproductions": false,
+    "real_download_pipeline_executed": true,
+    "status": "POINT-ESTIMATE CRITERION NOT MET",
+    "threshold": "At least 10% lower primary risk, <= 0.01 nominal balanced-accuracy cost, on at least two real datasets",
+    "torch_backend_executed": true,
+    "uncertainty_note": "Inspect subject intervals, all partitions, shared mechanisms, controls and convergence before making a claim."
+  },
+  "environment": {
+    "backend": "torch",
+    "device": "cuda",
+    "matplotlib": "3.10.0",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "python": "3.13.15",
+    "scipy": "1.16.3",
+    "torch": "2.11.0+cu128"
+  },
+  "files": [
+    {
+      "bytes": 641,
+      "name": "cluster_intervals.csv",
+      "sha256": "303a6ffc459cbfb58315e7c75d700beeb0106dd8253390060c5d0ba1d3752664"
+    },
+    {
+      "bytes": 990,
+      "name": "criteria.json",
+      "sha256": "4e9ac45289023e994d3d6eebb7d08458c588b1610fbea4c9b83ac60a8e93cc16"
+    },
+    {
+      "bytes": 1481837,
+      "name": "metrics.csv",
+      "sha256": "b8cce77a4e287007b23a8bd5bc6023a1295c912491f5d9123655f77ce71d0315"
+    },
+    {
+      "bytes": 154819,
+      "name": "mfeat_risk_curves.png",
+      "sha256": "d2d68b73cb6005bdc00fb0745ba402d83a1473c0e66be5e7ebf00b382a60d4ef"
+    },
+    {
+      "bytes": 166408,
+      "name": "mhealth_risk_curves.png",
+      "sha256": "badeae95c14dfd5062604ebdbcc6deb337104fe16721e4b5d08dd2cac64afa45"
+    },
+    {
+      "bytes": 146459,
+      "name": "native_gap_sensitivity.json",
+      "sha256": "156f770ead8b1cd7ecc3be1b2b71a980c02c8a0c44f760f6823414a3cd2f0faa"
+    },
+    {
+      "bytes": 4354,
+      "name": "paired_comparisons.csv",
+      "sha256": "cc2142b0a508e9e40cf7d05b4d3eec7786eae45143be4a272a7312e3d9fbf4f1"
+    },
+    {
+      "bytes": 161905,
+      "name": "pamap2_risk_curves.png",
+      "sha256": "13f13e5ddc103d29fcb52f4aa0c3c381f888b6e4546e8563d369b5577b11aa79"
+    },
+    {
+      "bytes": 95970,
+      "name": "protocol_1bdeb9821e7d64bf.json",
+      "sha256": "773d0f980b6d1f05893a54762da179796f0555d515a8a85b97baabfbc477ae90"
+    },
+    {
+      "bytes": 27682409,
+      "name": "results.json",
+      "sha256": "214f5b4380f2ee5241a0a61421e2ac3890f521693ff448729ec81816a7a707e4"
+    },
+    {
+      "bytes": 104564,
+      "name": "rpmt_inference.zip",
+      "sha256": "9976a3961c7a96fadc0ad856c5ebdce0ffc4c91db05d255f9fafe5d078f8e467"
+    },
+    {
+      "bytes": 46781,
+      "name": "run_completion.csv",
+      "sha256": "c2ae813ac952bb3755bd027e5001aa3aef4624253946da11bd019eca42b3258d"
+    },
+    {
+      "bytes": 98574,
+      "name": "selection_1bdeb9821e7d64bf.json",
+      "sha256": "6499bead34ccb0cf2a53477cb6f5354a8b8df853d9f3e03e28b006500e390ef9"
+    },
+    {
+      "bytes": 1391433,
+      "name": "shared_mechanisms.csv",
+      "sha256": "cbe95f59e09713857b640b8af393d59e50e8f3826c2325f6496a456cb8ec0b9b"
+    },
+    {
+      "bytes": 1364,
+      "name": "smoke_checks.json",
+      "sha256": "83c123a3467d84c44b72c128528b8b2a0a08d16f893f17daba9a0ca020afe01a"
+    },
+    {
+      "bytes": 232,
+      "name": "study_status.json",
+      "sha256": "41786fe4065b7a4cb7550963b02aca0ad54e8ccf3d1676a9ccc9e5b8ec2cfc24"
+    },
+    {
+      "bytes": 34116211,
+      "name": "subject_metrics.csv",
+      "sha256": "a5d3c5c04951762b9292349c859d4692ff61e847e31c1ff0e8f1bd394a6e030f"
+    },
+    {
+      "bytes": 135,
+      "name": "test_evaluation_started.json",
+      "sha256": "c47f29c64b920db8312ec4a57d9cbfceb9f7f72660741e15cf8b7a5bc72ccf27"
+    },
+    {
+      "bytes": 12242,
+      "name": "timing_pilot.json",
+      "sha256": "94029c87d60f7b84313d56014de8ec128d3bae45e09825fcdbf3c45e4c9c0c3d"
+    },
+    {
+      "bytes": 61976,
+      "name": "training_trace.png",
+      "sha256": "18d6c9119ea33e703c43bc5433d361272a06ff19054fed9dfe3c7ef3efb346e9"
+    }
+  ],
+  "pipeline": "rpmt-notebook-1.0.0",
+  "study_status": {
+    "completed_all": true,
+    "completed_fits": 293,
+    "expected_fits": 293,
+    "measured_session_seconds": 6744.875334406001,
+    "mode": "study",
+    "protocol_hash": "1bdeb9821e7d64bf4ff9e78978739b13901ac7ff3cf5e53a630b4b55c39bc1bf"
+  },
+  "tests": {
+    "backend": "torch",
+    "checkpoints": {
+      "completed_run_skipped": "PASS",
+      "corruption_recovery": "PASS",
+      "loss_decreases": "PASS",
+      "mismatch_rejected": "PASS",
+      "observed_only_inference": "PASS",
+      "resume_matches_uninterrupted": "PASS",
+      "rng_roundtrip": "PASS"
+    },
+    "device": "cuda",
+    "gradient_accumulation": {
+      "chunked_gradient_max_error": 7.450580596923828e-09,
+      "rho_zero_equals_dropout": "PASS",
+      "shapley_efficiency": "PASS"
+    },
+    "gradients": {
+      "cross_entropy_error": 1.6572109076129493e-06,
+      "fusion": 1.1899508538637527e-05,
+      "multimodn": 1.4397005233646176e-05,
+      "remind": 1.3885243489997201e-05,
+      "torch_parity": "PASS"
+    },
+    "inference_export_roundtrip": "PASS",
+    "loader_fixtures": {
+      "live_downloads": "NOT RUN in smoke mode",
+      "mfeat_six_views": "PASS",
+      "mhealth_parser": "PASS",
+      "pamap2_nested_archive_and_gaps": "PASS"
+    },
+    "preprocessing": {
+      "boundary_windows": 3,
+      "mask_histograms": "PASS",
+      "short_gaps": "PASS",
+      "train_only_scaler": "PASS"
+    },
+    "solver": {
+      "independent_primal_risk": 0.7399136849878268,
+      "monotone_risks": [
+        0.4454740149880372,
+        0.530178234292296,
+        0.5881924800408911,
+        0.6376390243237725
+      ],
+      "primal_dual_gap": 4.440892098500626e-16,
+      "status": "PASS",
+      "toy_risk": 0.7399136849878265
+    }
+  }
+}

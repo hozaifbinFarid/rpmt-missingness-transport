@@ -1,0 +1,453 @@
+{
+  "budget_hours": 15.0,
+  "ce_control_note": "CE solver cost is covered by the variability multiplier, not separately benchmarked.",
+  "environment": {
+    "backend": "torch",
+    "device": "cuda",
+    "matplotlib": "3.10.0",
+    "numpy": "2.1.3",
+    "pandas": "2.2.3",
+    "python": "3.13.15",
+    "scipy": "1.16.3",
+    "torch": "2.11.0+cu128"
+  },
+  "evaluation_export_reserve_hours": 1.25,
+  "interruption_reserve_hours": 1.5,
+  "measurements": [
+    {
+      "dataset": "mfeat",
+      "method": "class_mask_dro",
+      "parameters": 36170,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.2861150144999982,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "class_mask_dro",
+      "parameters": 67594,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.8087821110000135,
+      "train_examples": 1200,
+      "views": 6
+    },
+    {
+      "dataset": "mfeat",
+      "method": "erm",
+      "parameters": 36170,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.2977206475000145,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "mask_dro",
+      "parameters": 36170,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.2882066909999992,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "mirrams_block",
+      "parameters": 36170,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.2843726720000035,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "multimodn",
+      "parameters": 48394,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.30375465199999496,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "remind_compact",
+      "parameters": 40727,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.46535691999999074,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "rpmt",
+      "parameters": 36170,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.5577659775000114,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "rpmt",
+      "parameters": 67594,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 3.0518865559999853,
+      "train_examples": 1200,
+      "views": 6
+    },
+    {
+      "dataset": "mfeat",
+      "method": "shapko_compact",
+      "parameters": 36170,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.2776589449999989,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "subset",
+      "parameters": 36170,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.32465561599998694,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mfeat",
+      "method": "subset",
+      "parameters": 67594,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.5315318840000032,
+      "train_examples": 1200,
+      "views": 6
+    },
+    {
+      "dataset": "mfeat",
+      "method": "worst_subset",
+      "parameters": 36170,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.2700016830000038,
+      "train_examples": 1200,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "class_mask_dro",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.5137992785000023,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "erm",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.48086136150001835,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "mask_dro",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.4891595054999982,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "mirrams_block",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.5455129139999997,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "multimodn",
+      "parameters": 37516,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.6099369905000032,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "remind_compact",
+      "parameters": 30759,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.7623186800000212,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "rpmt",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.7185729549999991,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "rpmt",
+      "parameters": 201932,
+      "peak_vram_bytes": null,
+      "raw": true,
+      "seconds_per_step_including_validation_and_io": 0.8095686780000051,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "rpmt_no_columns",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.5891152194999734,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "rpmt_no_rows",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.805361268500036,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "rpmt_rho0",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.7679118254999935,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "rpmt_sensor_rates",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.8344380465000256,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "shapko_compact",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.8259174734999704,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "subset",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.5149728429999811,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "subset",
+      "parameters": 201932,
+      "peak_vram_bytes": null,
+      "raw": true,
+      "seconds_per_step_including_validation_and_io": 0.6975802894999958,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "mhealth",
+      "method": "worst_subset",
+      "parameters": 25292,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 0.529099663500034,
+      "train_examples": 3163,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "class_mask_dro",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.0827742304999788,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "erm",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.0818471010000508,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "mask_dro",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.123899472999966,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "mirrams_block",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.1243211079999753,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "multimodn",
+      "parameters": 39564,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.6686662945000137,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "remind_compact",
+      "parameters": 32807,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.7922296039999708,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "rpmt",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.1984668210000393,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "rpmt_no_columns",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.193904208499987,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "rpmt_no_rows",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.20841628499997,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "rpmt_rho0",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.6629949850000116,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "rpmt_sensor_rates",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.238324175999992,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "shapko_compact",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.1749286714999982,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "subset",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.1086459684999852,
+      "train_examples": 7222,
+      "views": 3
+    },
+    {
+      "dataset": "pamap2",
+      "method": "worst_subset",
+      "parameters": 27340,
+      "peak_vram_bytes": null,
+      "raw": false,
+      "seconds_per_step_including_validation_and_io": 1.0789874249999798,
+      "train_examples": 7222,
+      "views": 3
+    }
+  ],
+  "pilot_seconds": 36.26347501500004,
+  "preprocessing_measured_seconds": 13.629967233998286,
+  "projected_total_hours": 6.053267538407695,
+  "training_projection_hours": 3.289408248565751,
+  "within_budget": true
+}

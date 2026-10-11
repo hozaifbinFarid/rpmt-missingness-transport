@@ -1,0 +1,4826 @@
+[
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 8,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 43,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 65,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 77,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 2,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 5,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 10,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 156,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 134,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 108,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 141,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 96,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 32,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 24,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 84,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 59,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 34,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 9,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 18,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 240,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 225,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 187,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 66,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 98,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.0,
+    "included_windows": 2006,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "subset",
+    "risk": 0.3202975962550468,
+    "seed": 11
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 29610,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 49518,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.5,
+    "included_windows": 3969,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "subset",
+    "risk": 0.3167027325795607,
+    "seed": 11
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 8,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 43,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 65,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 77,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 2,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 5,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 10,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 156,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 134,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 108,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 141,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 96,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 32,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 24,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 84,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 59,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 34,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 9,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 18,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 240,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 225,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 187,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 66,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 98,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.0,
+    "included_windows": 2006,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "rpmt",
+    "risk": 0.30786583688224867,
+    "seed": 11
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 29610,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 49518,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.5,
+    "included_windows": 3969,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "rpmt",
+    "risk": 0.3007987745004527,
+    "seed": 11
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 8,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 43,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 65,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 77,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 2,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 5,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 10,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 156,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 134,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 108,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 141,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 96,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 32,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 24,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 84,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 59,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 34,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 9,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 18,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 240,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 225,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 187,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 66,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 98,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.0,
+    "included_windows": 2006,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "subset",
+    "risk": 0.3115862043068257,
+    "seed": 29
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 29610,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 49518,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.5,
+    "included_windows": 3969,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "subset",
+    "risk": 0.3055997567121884,
+    "seed": 29
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 8,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 43,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 65,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 77,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 2,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 5,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 10,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 156,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 134,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 108,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 141,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 96,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 32,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 24,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 84,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 59,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 34,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 9,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 18,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 240,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 225,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 187,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 66,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 98,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.0,
+    "included_windows": 2006,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "rpmt",
+    "risk": 0.3038888675534732,
+    "seed": 29
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 29610,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 49518,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.5,
+    "included_windows": 3969,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "rpmt",
+    "risk": 0.30007482504846755,
+    "seed": 29
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 8,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 43,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 65,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 77,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 2,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 5,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 10,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 156,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 134,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 108,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 141,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 96,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 32,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 24,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 84,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 59,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 34,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 9,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 18,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 240,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 225,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 187,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 66,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 98,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.0,
+    "included_windows": 2006,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "worst_subset",
+    "risk": 0.31322770695035607,
+    "seed": 47
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 29610,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 49518,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.5,
+    "included_windows": 3969,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "worst_subset",
+    "risk": 0.2983223755515461,
+    "seed": 47
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 8,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 43,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 65,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 77,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 2,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 5,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 10,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 156,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 134,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 108,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 141,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 96,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 0,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 32,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 24,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 84,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 59,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 34,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 9,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 14,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 7,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 18,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 240,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 225,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 187,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 66,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 98,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.0,
+    "included_windows": 2006,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "rpmt",
+    "risk": 0.302593881003738,
+    "seed": 47
+  },
+  {
+    "audit": [
+      {
+        "file": "subject101.dat",
+        "native_values_filled": 29610,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1464
+          },
+          {
+            "candidate_windows": 211,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 168,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5110
+          },
+          {
+            "candidate_windows": 178,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6290
+          },
+          {
+            "candidate_windows": 62,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5498
+          },
+          {
+            "candidate_windows": 57,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1843
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12004
+          },
+          {
+            "candidate_windows": 172,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3582
+          },
+          {
+            "candidate_windows": 157,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4828
+          },
+          {
+            "candidate_windows": 183,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3036
+          },
+          {
+            "candidate_windows": 165,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7441
+          },
+          {
+            "candidate_windows": 99,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 7309
+          }
+        ],
+        "subject": 1
+      },
+      {
+        "file": "subject102.dat",
+        "native_values_filled": 49518,
+        "segments": [
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2478
+          },
+          {
+            "candidate_windows": 182,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3133
+          },
+          {
+            "candidate_windows": 173,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 1014
+          },
+          {
+            "candidate_windows": 198,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 2822
+          },
+          {
+            "candidate_windows": 224,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4045
+          },
+          {
+            "candidate_windows": 160,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 12478
+          },
+          {
+            "candidate_windows": 67,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 4992
+          },
+          {
+            "candidate_windows": 59,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 21498
+          },
+          {
+            "candidate_windows": 66,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 56,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 9561
+          },
+          {
+            "candidate_windows": 253,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 6183
+          },
+          {
+            "candidate_windows": 231,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3040
+          },
+          {
+            "candidate_windows": 195,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 3824
+          },
+          {
+            "candidate_windows": 71,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 5263
+          },
+          {
+            "candidate_windows": 102,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 0
+          },
+          {
+            "candidate_windows": 0,
+            "excluded_long_gap_windows": 0,
+            "interpolated_values": 0,
+            "short_segment_rows": 0,
+            "transition_rows": 11498
+          }
+        ],
+        "subject": 2
+      }
+    ],
+    "gap_seconds": 0.5,
+    "included_windows": 3969,
+    "interpretation": "Selected complete windows under alternate gap rules; not recovery of naturally absent modalities.",
+    "method": "rpmt",
+    "risk": 0.2918747312886588,
+    "seed": 47
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "backend": "torch",
+  "checkpoints": {
+    "completed_run_skipped": "PASS",
+    "corruption_recovery": "PASS",
+    "loss_decreases": "PASS",
+    "mismatch_rejected": "PASS",
+    "observed_only_inference": "PASS",
+    "resume_matches_uninterrupted": "PASS",
+    "rng_roundtrip": "PASS"
+  },
+  "device": "cuda",
+  "gradient_accumulation": {
+    "chunked_gradient_max_error": 7.450580596923828e-09,
+    "rho_zero_equals_dropout": "PASS",
+    "shapley_efficiency": "PASS"
+  },
+  "gradients": {
+    "cross_entropy_error": 1.6572109076129493e-06,
+    "fusion": 1.1899508538637527e-05,
+    "multimodn": 1.4397005233646176e-05,
+    "remind": 1.3885243489997201e-05,
+    "torch_parity": "PASS"
+  },
+  "inference_export_roundtrip": "PASS",
+  "loader_fixtures": {
+    "live_downloads": "NOT RUN in smoke mode",
+    "mfeat_six_views": "PASS",
+    "mhealth_parser": "PASS",
+    "pamap2_nested_archive_and_gaps": "PASS"
+  },
+  "preprocessing": {
+    "boundary_windows": 3,
+    "mask_histograms": "PASS",
+    "short_gaps": "PASS",
+    "train_only_scaler": "PASS"
+  },
+  "solver": {
+    "independent_primal_risk": 0.7399136849878268,
+    "monotone_risks": [
+      0.4454740149880372,
+      0.530178234292296,
+      0.5881924800408911,
+      0.6376390243237725
+    ],
+    "primal_dual_gap": 4.440892098500626e-16,
+    "status": "PASS",
+    "toy_risk": 0.7399136849878265
+  }
+}

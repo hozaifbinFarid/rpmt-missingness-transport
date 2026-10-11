@@ -1,0 +1,27 @@
+{
+  "all_293_fits_complete": true,
+  "dataset_summaries": [
+    {
+      "dataset": "mfeat",
+      "nominal_balanced_accuracy_cost": -0.007619047619047525,
+      "relative_risk_reduction": 0.09683515857811281
+    },
+    {
+      "dataset": "mhealth",
+      "nominal_balanced_accuracy_cost": -0.04824425452290421,
+      "relative_risk_reduction": 0.06720063647367415
+    },
+    {
+      "dataset": "pamap2",
+      "nominal_balanced_accuracy_cost": -0.019674508449994174,
+      "relative_risk_reduction": 0.045476468974306176
+    }
+  ],
+  "datasets_meeting_threshold": 0,
+  "official_paper_reproductions": false,
+  "real_download_pipeline_executed": true,
+  "status": "POINT-ESTIMATE CRITERION NOT MET",
+  "threshold": "At least 10% lower primary risk, <= 0.01 nominal balanced-accuracy cost, on at least two real datasets",
+  "torch_backend_executed": true,
+  "uncertainty_note": "Inspect subject intervals, all partitions, shared mechanisms, controls and convergence before making a claim."
+}
