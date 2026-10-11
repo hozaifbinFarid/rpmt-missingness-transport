@@ -6,10 +6,8 @@ authors:
   - family-names: "Farid"
     given-names: "Hozaif Bin"
     email: "hozaifbinfarid@gmail.com"
-    affiliation: "[affiliation]"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "YOUR DEPARTMENT, YOUR UNIVERSITY"
 version: "1.0.0"
-date-released: "2026-10-00"
+date-released: "2026-10-11"
 license: MIT
-repository-code: "[GitHub repository URL]"
-doi: "[Zenodo DOI]"
+repository-code: "https://github.com/hozaifbinFarid/rpmt-missingness-transport"
