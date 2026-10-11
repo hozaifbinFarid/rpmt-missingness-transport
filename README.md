@@ -4,7 +4,7 @@ Code, locked protocol and result tables for the manuscript
 **"RPMT: Rate Preserving Missingness Transport for Multisensor Models Robust to Missing Sensors"**
 (single author: Hozaif Bin Farid).
 
-- Archived release (DOI): `[ZENODO DOI - add after the first release]`
+- Archived release (DOI): `https://doi.org/10.5281/zenodo.23299744`
 - Protocol identifier (SHA-256): `1bdeb9821e7d64bf4ff9e78978739b13901ac7ff3cf5e53a630b4b55c39bc1bf`
 
 ## What is in this repository
